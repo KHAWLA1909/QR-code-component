@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(156, 156, 230);
+}
+
+.QR-landing-page {
+    padding: 17px 18px;
+    background-color: white;
+    padding: 17px;
+    border-radius: 17px;
+    margin: 7% 290px
+}
+
+.QR-landing-page img {
+    width: 300px;
+}
