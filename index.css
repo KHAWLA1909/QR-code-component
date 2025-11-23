@@ -5,11 +5,11 @@ body {
 .QR-landing-page {
     padding: 17px 18px;
     background-color: white;
-    padding: 17px;
-    border-radius: 17px;
     margin: 7% 290px
 }
 
 .QR-landing-page img {
-    width: 300px;
+    text-align: center;
+    width: 370px;
+    margin: 2px;
 }
